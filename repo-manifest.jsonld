@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/hermes-plugin-tirith/commit/77405987e6c0ba4e1ae45a954abaa0ce20fbf0c5",
       "git:hexsha": "77405987e6c0ba4e1ae45a954abaa0ce20fbf0c5",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-09T10:10:47.130296+00:00"
     }
   ]
 }
