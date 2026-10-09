@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "hermes-plugin-tirith",
+  "versions": [
+    {
+      "commit": "77405987e6c0ba4e1ae45a954abaa0ce20fbf0c5",
+      "parsed_at": "2026-10-09T07:08:55.730159+00:00",
+      "tag": "main",
+      "filetree": "filetree/77405987e6c0ba4e1ae45a954abaa0ce20fbf0c5.nq.gz",
+      "blobs": [
+        "blob/a1a5447fed90f6b8c7c6aa113d8568df2b0c48df.nq.gz",
+        "blob/75c61823b87164dde85ad0f2c78c300e011cc8a2.nq.gz",
+        "blob/5700b997827973cb0eb6d84a2782bb08a5872434.nq.gz",
+        "blob/653917b7ae4645596e16bfb336433d7c4c5f36c6.nq.gz",
+        "blob/afb1b2a9ed01aca153a134bd8c9cce5d1de31ead.nq.gz",
+        "blob/e7b2d2857d3a7160312590a6a30ca1a277d0b94d.nq.gz",
+        "blob/b0d1c323c4ce0e1ec794eb089d891af7075070d7.nq.gz",
+        "blob/5a586926183474cb62f37000225821c7074e219b.nq.gz",
+        "blob/e0f11c3013923efa1155029fda862716aa94ae25.nq.gz",
+        "blob/7de177aa7458557601b4e47d415a7be7f21c681b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
